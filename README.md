@@ -1,5 +1,5 @@
-# Assignment-21-Deep-Neural-Network
-This is a repository for module 21 which explore in using deep neural network in creating a model with the data from the nonprofit foundation Alphabet Soup.
+#Deep Neural Network
+This is a repository which explore in using deep neural network in creating a model with the data from the nonprofit foundation Alphabet Soup.
 <h5>What's in the repository</h5>
 In the repository are several files, where the first is the starting code and the three other script contains the three seperate model changes:<br/>
 - Starter_code.ipynb - this is the main code which is written through jupyter notebook that contains tha script for creating the model as well as altering the model to see if it can be improved
