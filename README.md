@@ -57,12 +57,10 @@ to provide the accuracy. Unfortunately, there isn't any improvement among the ot
 
 
 Out of all of the models, none of them have achieved greater accuracy than the second model attempy of 0.73. The process in how the model change are mainly one by one difference in order to really see the impact of the change
-rather than completely altering the entire settings. Hence the three model attempt only had only onde differences, and at the end it didn't improve the model's accuracy. 
+rather than completely altering the entire settings. Hence the three model attempt only had only onde differences, and at the end it didn't improve the model's accuracy. <br/>
 
 
-Summary: Summarise the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
-
-<h3> Summary </h3>
+# Summary
 Out of the model, the best one happens to be adding an additional layer. This could be that it helps the model to refine in improving the data prediction. Although the model loss overall isn't great with the average of 0.57 which is
 poor in predicting a single example. Though the average accuracy is 0.72, it can be precise in getting the results close to the line. This means that the model's weight across the feature may be the reason for the model's performance where
 some of the columns value has a greater unnessecary weight compare to others.<br/>
