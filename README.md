@@ -35,8 +35,10 @@ All of the remaining variables/columns are shown below, and the two columns remo
 
 <h4>Compiling, Training, and Evaluating the Model</h4>
 There are four different version of model, in order to find the best combination to achieve the best accuracy. The model summary are shown below with the known number of neuron, layer and activation functions.<br/>
-![image](https://github.com/Nisloen/Assignment-21-Deep-Neural-Network/assets/134130254/be19f015-c50b-4636-a13d-97a605977820)
-![image](https://github.com/Nisloen/Assignment-21-Deep-Neural-Network/assets/134130254/93a687ef-f452-46d5-ade1-2e9376e5a5b1)
+
+![image](https://github.com/EricTran99/Assignment-21-Deep-Neural-Network/assets/134130254/cd6ef11c-b5b5-4b49-a60c-ce01bb637812) <br/>
+
+![image](https://github.com/EricTran99/Assignment-21-Deep-Neural-Network/assets/134130254/b1b2195f-3910-4985-8650-5b34cef4ad08) <br/>
 
 This has two hidden layers, each containing 80 neruons with the relu activation function. Also an outer layer with 1 neuron and sigmoid activation function.<br/>
 This is the first original model and the next three are variation attempt in creating a better model.<br/>
