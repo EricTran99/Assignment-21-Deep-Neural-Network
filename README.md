@@ -1,4 +1,4 @@
-#Deep Neural Network
+# Deep Neural Network
 This is a repository which explore in using deep neural network in creating a model with the data from the nonprofit foundation Alphabet Soup.
 <h5>What's in the repository</h5>
 In the repository are several files, where the first is the starting code and the three other script contains the three seperate model changes:<br/>
